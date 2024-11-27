@@ -13,4 +13,8 @@ class EducationalResourcesList(BoxLayout):
         # temporary, as an example
         webbrowser.open("https://www-doh.nj.gov/doh-shad/topic/Water.html")
         
+    def get_link(display_name):
+        # do whatever
+        return link
+        
         
